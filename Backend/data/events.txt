@@ -1,0 +1,27 @@
+1	Link R2-R3 failed
+2	Link R2-R3 recovered
+3	Link R2-R3 failed
+4	Last failure undone
+5	Link R0-R1 failed
+6	Link R0-R1 recovered
+7	Link R0-R1 failed
+8	Link R0-R1 recovered
+9	Link R0-R1 failed
+10	Link R0-R1 recovered
+11	Link R0-R1 failed
+12	Link R0-R1 recovered
+13	Link R0-R1 failed
+14	Link R0-R1 recovered
+15	Link R0-R1 failed
+16	Link R1-R3 failed
+17	Last failure undone
+18	Last failure undone
+19	Link R0-R1 failed
+20	Link R0-R2 failed
+21	Router R6 provisioned
+22	Link R5-R6 provisioned (weight: 7)
+23	Link R5-R6 deleted
+24	Link R6-R0 provisioned (weight: 4)
+25	Link R5-R6 provisioned (weight: 4)
+26	Router R7 provisioned
+27	Link R6-R7 provisioned (weight: 4)

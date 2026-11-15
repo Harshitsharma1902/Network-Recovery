@@ -1,0 +1,2 @@
+# Router Configuration Data
+# Format: <router_id>,<router_name>,<ip_address>,<status>
