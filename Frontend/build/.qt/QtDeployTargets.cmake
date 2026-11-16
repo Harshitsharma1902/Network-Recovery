@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_NetworkRecoverySimulator_FILE /Users/divyeshtripathi/NetworkRecovery/Frontend/build/NetworkRecoverySimulator)
+set(__QT_DEPLOY_TARGET_NetworkRecoverySimulator_TYPE EXECUTABLE)
